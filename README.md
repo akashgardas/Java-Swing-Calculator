@@ -86,8 +86,3 @@ Contributions are welcome! Follow these steps to contribute:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Special thanks to [your professor or inspiration, if any].
-- Icons and design inspirations from [source if applicable].
