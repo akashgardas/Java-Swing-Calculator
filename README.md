@@ -32,8 +32,8 @@ A simple yet elegantly designed calculator application built using Java Swing. T
 
 3. **Compile and Run the Application**:
    ```bash
-   javac -d bin src/com/calculator/*.java
-   java -cp bin com.calculator.Main
+   javac -d bin src/main/*.java
+   java -cp bin main.Main
    ```
 
 4. **Run the Prebuilt Executable (Optional)**:
